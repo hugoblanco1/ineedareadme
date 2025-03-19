@@ -1,29 +1,29 @@
 # Welcome to My Website
 
-Welcome to "Human Space Activities," a website designed for education and space enthusiasts. Explore the milestones of human space exploration through interactive content. This website is dedicated to inspiring and educating users about the vast universe and humanity’s role in exploring it.
-
+Welcome to my emoji matching game.
 ## Accessing the Website
 
 ### Homepage Link
 To visit the homepage of the website, click on the following link or copy-paste it into your browser's address bar:
 
-[Homepage Link](http://ml-lab-4d78f073-aa49-4f0e-bce2-31e5254052c7.ukwest.cloudapp.azure.com:57733/my_website/home.html)
+[Homepage Link](http://ml-lab-4d78f073-aa49-4f0e-bce2-31e5254052c7.ukwest.cloudapp.azure.com:57733/index.php)
 
 ### Important Note
 Please note that the website is hosted on a virtual machine for the duration of the project review. The VM needs to be operational for the website to be accessible. 
 ### How to Navigate
 The website consists of several pages including:
 
-- **Home**: The main landing page you will see upon clicking the link above.
-- **History**: Learn more about the history of human space exploration.
-- **Future**: Learn more about upcoming space missions.
-- **Contact**: Contact us page where you are able to send a message.
+- **Index**: The first page you see guiding you to play or register.
+- **Registration**: Register with a username to play the game.
+- **Pairs**: Page where you actually play the game.
+- **Leaderboard**: Page where you can see your points compared to other people.
 
-Please use the navigation bar at the top of each page to move between the different sections of the website.
 
-## Technical Details
+## Key features
 
-This website includes HTML and CSS files that structure, style, and add interactivity. 
+1. Music that plays when you click play
+2. Avatar preview box that allows you to personalise your avatar
+3. live game updates that show you your current time attempts and points
 
 ## Troubleshooting
 
