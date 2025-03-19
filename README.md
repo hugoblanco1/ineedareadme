@@ -23,7 +23,7 @@ The website consists of several pages including:
 
 1. Music that plays when you click play
 2. Avatar preview box that allows you to personalise your avatar
-3. live game updates that show you your current time attempts and points
+3. Live game updates that show you your current time attempts and points
 
 ## Troubleshooting
 
@@ -33,8 +33,5 @@ If you encounter any issues accessing the website:
 3. Check your internet connection.
 4. Try accessing the site from a different browser or device if the issue persists.
 
-## Feedback
-
-Your feedback is highly appreciated! Please reach out via the contact page on the website with any comments or suggestions.
 
 Thank you for visiting my website!
