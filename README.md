@@ -13,9 +13,9 @@ Please note that the website is hosted on a virtual machine for the duration of 
 ### How to Navigate
 The website consists of several pages including:
 
-- **Index**: The first page you see guiding you to play or register.
-- **Registration**: Register with a username to play the game.
-- **Pairs**: Page where you actually play the game.
+- **Index**: The first page you see links to register if not on a registered session or a button to play the game if you are.
+- **Registration**: Register with a username aswell as selecting your avatar from 3 drop down menus.
+- **Pairs**: Page where you actually play, 10 cards are shown on the screen and you must match the 5 paris. Points are based on attempts and time taken.
 - **Leaderboard**: Page where you can see your points compared to other people.
 
 
